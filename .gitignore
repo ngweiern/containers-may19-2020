@@ -2,3 +2,5 @@ node_modules
 dist
 angular
 .angulardoc.json
+myk8cluster-kubeconfig.yaml
+.idea
